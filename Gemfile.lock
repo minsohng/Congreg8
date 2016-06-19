@@ -98,7 +98,6 @@ GEM
       pkg-config (~> 1.1.7)
     pg (0.17.1)
     pkg-config (1.1.7)
-    puma (3.1.0)
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -176,7 +175,6 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   pg
-  puma (= 3.1.0)
   rails (= 4.2.6)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
